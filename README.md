@@ -1,1 +1,3 @@
 # prueba9
+
+El ejercicio original es la prueba9.ipynb, está escrito en python de la forma cuaderno de jupyter. Todas las clases están implementadas en una sola celda, incluyendo el main. De modo que para ejecutarlo desplácese hasta el fondo de la celda, cambie a su gusto los valores para el arreglo de pisos, el piso inicial, pisos ingrsados y el sentido. Ejecute la celda y se imprimirá el resultado. EL archivo prueba9WB1.ipynb y el archivo prueba9W2 contienen el ejercicio en sus dos variantes descritas en el bonus.
